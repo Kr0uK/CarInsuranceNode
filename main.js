@@ -3,6 +3,7 @@ var http = require('http');
 // On demande l'URL
 var url = require("url");
 
+
 // On requiert le module pour manipuler des fichiers
 var fs = require("fs");
 var head, body;
